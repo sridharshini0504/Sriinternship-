@@ -1,6 +1,4 @@
-Here’s a *text-based To-Do List Python program* that works well on mobile using apps like *Pydroid 3*, *Replit*, or *Google Colab*:
 
-```python
 tasks = []
 
 def show_menu():
@@ -36,9 +34,5 @@ while True:
         print("Exiting To-Do List. Goodbye!")
         break
     else:
-        print("Invalid choice. Please select from 1 to 4.")
-```
+        print("Invalid choice. Please select from 1 to 4.
 
-✅ Copy and run this in any *Python mobile app* or online compiler.
-
-Let me know if you want to add *task editing* or *saving to file*.
